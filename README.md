@@ -4,5 +4,5 @@ Página de productos inspirado en el diseño de [uibucket](https://www.instagram
 
 ## Demo Image
 
-![0]
-(https://raw.githubusercontent.com/EktwrW/Modulo-de-Catalogo/blob/master/assets/0.jpg)
+![M1d]
+(https://i.imgur.com/m9C7M1d.jpg)

@@ -4,4 +4,4 @@ Página de productos inspirado en el diseño de [uibucket](https://www.instagram
 
 ## Demo Image
 
-![Model 3 Tesla] [url=https://imgur.com/m9C7M1d]
+https://i.imgur.com/m9C7M1d.jpg
